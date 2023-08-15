@@ -55,6 +55,7 @@ li {
 
 .toDo_ListItem{
     color: rgb(136, 79, 0);
+    cursor: pointer;
 }
 
 .toDo_ListItem.crossed{
